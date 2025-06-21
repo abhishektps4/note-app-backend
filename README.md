@@ -17,26 +17,6 @@ Built with:
 
 ---
 
-## 📁 Project Structure
-
-notes-app/
-├── backend/ # Node.js + Express API
-│ ├── controllers/
-│ ├── middleware/
-│ ├── models/
-│ ├── routes/
-│ ├── config/
-│ ├── .env.example
-│ └── server.js
-└── frontend/ # React (Vite)
-├── src/
-│ ├── components/
-│ ├── context/
-│ ├── pages/
-│ ├── styles/
-│ └── App.js, main.jsx, index.css
-├── .env
-└── vite.config.js
 
 
 
