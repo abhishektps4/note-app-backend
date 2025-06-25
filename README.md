@@ -10,7 +10,7 @@ Built with:
 - ☁️ Deployment: Render (backend) + Vercel (frontend)
 
 ---
-![note-app-backend Screenshot](
+![note-app-backend Screenshot](assets/notes-app.png)
 ---
 
 🌐 Frontend(Github): "https://github.com/abhishektps4/notes-app"
